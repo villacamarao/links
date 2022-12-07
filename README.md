@@ -1,3 +1,3 @@
 # linksuteis
 
-# código simples criada para direcionar os links úteis utilizados pelos funcionários da Villa Camarão.
+# código simples criada para direcionar aos links úteis utilizados pelos funcionários da Villa Camarão.
